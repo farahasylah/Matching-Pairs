@@ -1,4 +1,5 @@
 # Matching-Pairs
+TCP2201 OOAD (Object Oriented Analysis and Design) Assignment 
 Matching Pairs is a memory game where users choose a pair of same card to win. 
 Users can play up to 3 players with an option of text or image. 
 User able to choose the grid size of 2x2 or 4x4 or 6x6. The cards are placed randomly in every new game.To play, download the application in folder dist
